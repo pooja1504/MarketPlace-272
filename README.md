@@ -1,2 +1,1 @@
-# MarketPlace-272
-Online Marketplace using PHP and MySQL with Facebook integration
+# Market-Place-CMPE-272-Project
